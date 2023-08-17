@@ -10,4 +10,4 @@ Contract Details The ErrorHandlingContract is a smart contract that manages a ba
 
 Video Walkthrough
 
-https://www.loom.com/share/cd446ab131e44a2b99346fb1b2ed3442
+https://www.loom.com/share/c331db89c8b94743b0436dfaacc4d4a4
